@@ -336,7 +336,7 @@
         {
          "columns":4,
          "firstgid":1,
-         "image":"..\/pixel art\/Sprite-chair(R).png",
+         "image":"tilesets\/Sprite-chair_R.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -349,7 +349,7 @@
         {
          "columns":1,
          "firstgid":17,
-         "image":"..\/pixel art\/Sprite-ground(2).png",
+         "image":"tilesets\/Sprite-ground_2.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -362,7 +362,7 @@
         {
          "columns":2,
          "firstgid":18,
-         "image":"..\/pixel art\/Sprite-tree.png",
+         "image":"tilesets\/Sprite-tree.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -375,7 +375,7 @@
         {
          "columns":1,
          "firstgid":22,
-         "image":"..\/pixel art\/building6.png",
+         "image":"tilesets\/building6.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -388,7 +388,7 @@
         {
          "columns":1,
          "firstgid":23,
-         "image":"..\/pixel art\/Sprite-beach(2).png",
+         "image":"tilesets\/Sprite-beach_2.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -401,7 +401,7 @@
         {
          "columns":1,
          "firstgid":24,
-         "image":"..\/pixel art\/Sprite-beach(3).png",
+         "image":"tilesets\/Sprite-beach_3.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -414,7 +414,7 @@
         {
          "columns":1,
          "firstgid":25,
-         "image":"..\/pixel art\/Sprite-beach(4).png",
+         "image":"tilesets\/Sprite-beach_4.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -427,7 +427,7 @@
         {
          "columns":1,
          "firstgid":26,
-         "image":"..\/pixel art\/Sprite-beach(5).png",
+         "image":"tilesets\/Sprite-beach_5.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -440,7 +440,7 @@
         {
          "columns":1,
          "firstgid":27,
-         "image":"..\/pixel art\/Sprite-beach(6).png",
+         "image":"tilesets\/Sprite-beach_6.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -466,7 +466,7 @@
         {
          "columns":1,
          "firstgid":29,
-         "image":"..\/pixel art\/Sprite-beach(7).png",
+         "image":"tilesets\/Sprite-beach_7.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -479,7 +479,7 @@
         {
          "columns":1,
          "firstgid":30,
-         "image":"..\/pixel art\/Sprite-fish.png",
+         "image":"tilesets\/Sprite-fish.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -492,7 +492,7 @@
         {
          "columns":1,
          "firstgid":31,
-         "image":"..\/pixel art\/Sprite-ground(3).png",
+         "image":"tilesets\/Sprite-ground_3.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -505,7 +505,7 @@
         {
          "columns":4,
          "firstgid":32,
-         "image":"..\/pixel art\/Sprite-table.png",
+         "image":"tilesets\/Sprite-table.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -518,7 +518,7 @@
         {
          "columns":4,
          "firstgid":48,
-         "image":"..\/pixel art\/Sprite-chair(L).png",
+         "image":"tilesets\/Sprite-chair_L.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -531,7 +531,7 @@
         {
          "columns":1,
          "firstgid":64,
-         "image":"..\/pixel art\/Sprite-rockRoad.png",
+         "image":"tilesets\/Sprite-rockRoad.png",
          "imageheight":128,
          "imagewidth":32,
          "margin":0,
@@ -544,7 +544,7 @@
         {
          "columns":1,
          "firstgid":68,
-         "image":"..\/pixel art\/Sprite-rockRoad.png",
+         "image":"tilesets\/Sprite-rockRoad.png",
          "imageheight":128,
          "imagewidth":32,
          "margin":0,
@@ -557,7 +557,7 @@
         {
          "columns":1,
          "firstgid":72,
-         "image":"..\/pixel art\/Sprite-rockRoad(2).png",
+         "image":"tilesets\/Sprite-rockRoad_2.png",
          "imageheight":128,
          "imagewidth":32,
          "margin":0,
@@ -570,7 +570,7 @@
         {
          "columns":8,
          "firstgid":76,
-         "image":"..\/pixel art\/Sprite-tree(2).png",
+         "image":"tilesets\/Sprite-tree_2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -583,7 +583,7 @@
         {
          "columns":2,
          "firstgid":140,
-         "image":"..\/pixel art\/Sprite-flower.png",
+         "image":"tilesets\/Sprite-flower.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
